@@ -1,3 +1,3 @@
 # JODA-2021
 
-Repositorio Johdatus datatieteeseen -kurssin oppimispäiväkirjan palautusta varten
+Oppimispäiväkirjan palauttamisen lisäksi tätä repositoria käytetään GitHubin toimintojen opettelemiseen
